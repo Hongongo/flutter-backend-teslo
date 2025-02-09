@@ -18,7 +18,6 @@ docker compose up -d
 
 
 # Extra
-Si desean saber más sobre docker y cómo se construyó esta imagen, esto es parte de mi curso de Nest y Docker:
 
 [Cursos sobre Docker](https://fernando-herrera.com/#/search/docker)
 
